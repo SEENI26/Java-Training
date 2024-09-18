@@ -1,5 +1,6 @@
 # Java 
-> This repository is designed to help you learn Java from a beginner's level to an advanced level. Whether you're just starting with Java or looking to deepen your understanding of the language, this guide provides a structured approach to mastering Java.
+> This repository is dedicated to helping developers, from beginners to advanced, learn the fundamental concepts of Core Java.
+> Core Java refers to the foundational features of the Java programming language, which are widely used to build basic applications and serve as a starting point for more advanced topics like Java Enterprise Edition (JEE) and Android development. It includes concepts such as object-oriented programming (OOP), exception handling, multithreading, file I/O, and collections.
 
 # IDE
 > Integrated Development Environment (IDE).
